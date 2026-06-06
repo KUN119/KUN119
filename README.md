@@ -32,13 +32,11 @@
 **State & Data Fetching**
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=react&logoColor=white)
 
 **UI & Visualization**
 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square&logo=apexcharts&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
 
@@ -75,17 +73,34 @@
 - ApexCharts + react-grid-layout **커스터마이징 가능한 대시보드** 개발
 - 다국어(i18n) 지원 및 반응형 UI
 
-#### pg-coreSystem — 핵심 SaaS 플랫폼
-> B2B 기업 고객 대상 보안 관제 핵심 시스템
-
-- Next.js + TypeScript 기반 대규모 SPA 설계 및 유지
-- TanStack Query를 활용한 서버 상태 관리 체계화
-
 #### idb.ai 공식 웹사이트
 > 회사 공식 홈페이지 및 제품 소개 페이지
 
 - SEO 최적화, 다국어 지원, API 연동
 - 반응형 웹 디자인 구현
+
+---
+
+### 🔬 Personal Projects
+
+| 프로젝트 | 설명 | 기술 |
+|---------|------|------|
+| [pigma-github-action-test](https://github.com/KUN119/pigma-github-action-test) | Figma Tokens Studio → CSS 변수 자동 동기화 파이프라인 | Figma, GitHub Actions |
+| [grid-layout](https://github.com/KUN119/grid-layout) | react-grid-layout + ApexCharts 대시보드 POC | React, ApexCharts |
+| [shoeketing](https://github.com/KUN119/shoeketing) | 신발 경매 팀 프로젝트 | React, Node.js |
+| [codingtest](https://github.com/KUN119/codingtest) | 백준 BaekjoonHub 자동 push (지속 업데이트 중) | Algorithm |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUN119&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUN119&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
