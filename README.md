@@ -74,6 +74,21 @@
 - ApexCharts + react-grid-layout **커스터마이징 가능한 대시보드** 개발
 - 다국어(i18n) 지원 및 반응형 UI
 
+#### 💧 K-Water AI 대시보드
+> 한국수자원공사를 위한 AI 기반 데이터 분석 대시보드 (2025.06 ~ 2025.12)
+
+- WebSocket 기반 AI 어시스턴트와 대화하여 **데이터 시각화 위젯 자동 생성**
+- COSFIM 특수 데이터 시각화 차트 구현 (x축 어노테이션, 음수 처리)
+- 위젯 필드(가로축/세로축) 설정 사이드바 구현 및 대시보드 레이아웃 전면 개편
+- `ChatContext` 중앙화 · `useRef` 이벤트 제어로 리렌더링 최소화
+
+#### 🎨 Design System — 사내 컴포넌트 라이브러리
+> ProtectGO 시리즈 전 제품에서 공유하는 UI 컴포넌트 라이브러리 (2026.02 ~ Present)
+
+- Tab · DropdownOption disabled · PushBadge 등 신규 컴포넌트 설계 및 버전 관리 (v1.9 → v1.13)
+- Figma 아이콘 → React 컴포넌트 **자동 변환 파이프라인** 구축 (`build:icons` + GitHub Actions)
+- `brightness()` 필터 → 오버레이 방식으로 전환, 열화상 영상 위 인터랙션 오동작 해결
+
 #### idb.ai 공식 웹사이트
 > 회사 공식 홈페이지 및 제품 소개 페이지
 
