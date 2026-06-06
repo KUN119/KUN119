@@ -45,9 +45,11 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
-![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square&logo=apexcharts&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square&logo=apexcharts&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![react-grid-layout](https://img.shields.io/badge/react--grid--layout-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Realtime**
 
