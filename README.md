@@ -97,29 +97,6 @@
 
 ---
 
-### 🔬 Personal Projects
-
-| 프로젝트 | 설명 | 기술 |
-|---------|------|------|
-| [pigma-github-action-test](https://github.com/KUN119/pigma-github-action-test) | Figma Tokens Studio → CSS 변수 자동 동기화 파이프라인 | Figma, GitHub Actions |
-| [grid-layout](https://github.com/KUN119/grid-layout) | react-grid-layout + ApexCharts 대시보드 POC | React, ApexCharts |
-| [shoeketing](https://github.com/KUN119/shoeketing) | 신발 경매 팀 프로젝트 | React, Node.js |
-| [codingtest](https://github.com/KUN119/codingtest) | 백준 BaekjoonHub 자동 push (지속 업데이트 중) | Algorithm |
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUN119&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUN119&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 📧 kjp2629@gmail.com
