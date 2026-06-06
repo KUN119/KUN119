@@ -101,4 +101,6 @@
 
 📧 kjp2629@gmail.com
 
+📄 [Portfolio](https://app.notion.com/p/37760b092e1e812caf35fc6037640756)
+
 </div>
