@@ -17,6 +17,7 @@
 - 🔭 기업용 SaaS · 실시간 협업 · 보안 대시보드 개발 전문
 - 📦 사내 UI 컴포넌트 라이브러리 **[@idbrnd/design-system](https://www.npmjs.com/package/@idbrnd/design-system)** 설계 및 npm 배포 운영
 - 🌱 TypeScript · Next.js · WebRTC 심화 학습 지속 중
+- ⚡ 빠르게 실행하고, 디테일로 완성하며, 불필요한 것은 과감히 덜어냅니다
 - 📍 Seoul, South Korea
 
 ---
