@@ -37,6 +37,9 @@
 **State & Data Fetching**
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch_API-000000?style=flat-square&logo=javascript&logoColor=white)
 
 **UI & Visualization**
 
