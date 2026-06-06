@@ -74,7 +74,7 @@
 - ApexCharts + react-grid-layout **커스터마이징 가능한 대시보드** 개발
 - 다국어(i18n) 지원 및 반응형 UI
 
-#### 🌐 idb.ai 공식 웹사이트
+#### 🌐 [idb.ai](https://idb.ai) 공식 웹사이트
 > 회사 공식 홈페이지 및 제품 소개 페이지
 
 - SEO 최적화, 다국어 지원, API 연동
