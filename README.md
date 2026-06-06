@@ -1,6 +1,6 @@
 <div align="center">
 
-## 안녕하세요, 김준필입니다 👋
+## 안녕하세요, 박건주입니다 👋
 
 **Frontend Developer @ [idb.ai](https://idb.ai)**
 
