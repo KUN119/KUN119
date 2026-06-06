@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🏢 현재 **idb.ai** 에서 프론트엔드 개발자로 근무 중 (2023.08 ~)
-- 🔭 기업용 SaaS · 실시간 협업 · 보안 대시보드 개발 전문
+- 🔭 기업용 SaaS · 실시간 협업 · 보안 대시보드 개발
 - 🌱 TypeScript · Next.js · WebRTC 심화 학습 지속 중
 - 📍 Seoul, South Korea
 
