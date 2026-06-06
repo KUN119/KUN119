@@ -74,6 +74,12 @@
 - ApexCharts + react-grid-layout **커스터마이징 가능한 대시보드** 개발
 - 다국어(i18n) 지원 및 반응형 UI
 
+#### idb.ai 공식 웹사이트
+> 회사 공식 홈페이지 및 제품 소개 페이지
+
+- SEO 최적화, 다국어 지원, API 연동
+- 반응형 웹 디자인 구현
+
 #### 💧 K-Water AI 대시보드
 > 한국수자원공사를 위한 AI 기반 데이터 분석 대시보드 (2025.06 ~ 2025.12)
 
@@ -88,12 +94,6 @@
 - Tab · DropdownOption disabled · PushBadge 등 신규 컴포넌트 설계 및 버전 관리 (v1.9 → v1.13)
 - Figma 아이콘 → React 컴포넌트 **자동 변환 파이프라인** 구축 (`build:icons` + GitHub Actions)
 - `brightness()` 필터 → 오버레이 방식으로 전환, 열화상 영상 위 인터랙션 오동작 해결
-
-#### idb.ai 공식 웹사이트
-> 회사 공식 홈페이지 및 제품 소개 페이지
-
-- SEO 최적화, 다국어 지원, API 연동
-- 반응형 웹 디자인 구현
 
 ---
 
