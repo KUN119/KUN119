@@ -69,7 +69,7 @@
 
 | Package | Version | Downloads |
 |---------|---------|-----------|
-| [@idbrnd/design-system](https://www.npmjs.com/package/@idbrnd/design-system) | ![npm](https://img.shields.io/npm/v/@idbrnd/design-system?style=flat-square&color=CB3837&logo=npm) | ![npm downloads](https://img.shields.io/npm/dm/@idbrnd/design-system?style=flat-square&color=CB3837&logo=npm) |
+| [@idbrnd/design-system](https://www.npmjs.com/package/@idbrnd/design-system) | ![npm version](https://img.shields.io/npm/v/@idbrnd/design-system?style=flat-square&color=CB3837&logo=npm) | ![npm downloads](https://img.shields.io/npm/dm/@idbrnd/design-system?style=flat-square&color=CB3837&logo=npm) |
 
 ---
 
@@ -110,7 +110,7 @@
 #### 🎨 Design System — 사내 컴포넌트 라이브러리
 > ProtectGO 시리즈 전 제품에서 공유하는 UI 컴포넌트 라이브러리 (2026.02 ~ Present)
 
-[![npm](https://img.shields.io/npm/v/@idbrnd/design-system?style=flat-square&color=CB3837&logo=npm&label=@idbrnd/design-system)](https://www.npmjs.com/package/@idbrnd/design-system)
+![npm](https://img.shields.io/npm/v/@idbrnd/design-system?style=flat-square&color=CB3837&logo=npm&label=@idbrnd/design-system)
 
 - Tab · DropdownOption disabled · PushBadge 등 신규 컴포넌트 설계 및 버전 관리 (v1.9 → v1.13)
 - Figma 아이콘 → React 컴포넌트 **자동 변환 파이프라인** 구축 (`build:icons` + GitHub Actions)
